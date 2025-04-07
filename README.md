@@ -1,12 +1,5 @@
 # BookShoppingCartMvc (A basic e-comm system for beginners)📚🛒
 
-<<<<<<< HEAD
-It is a source code of the youtube tutorial on [book shopping cart in .net core mvc](https://www.youtube.com/watch?v=R4ZLWD89R5w&list=PLP8UhDwXI7f_8r2Rbt7GNwf7eXZqUu_p4). Initially it was designed to explain how shopping cart 🛒 works in dot net core mvc. But now it has more features except payment gateway.
-=======
-It is a source code of the youtube tutorial on [book shopping cart in .net core mvc](https://www.youtube.com/watch?v=R4ZLWD89R5w&list=PLP8UhDwXI7f_8r2Rbt7GNwf7eXZqUu_p4). Initially it was designed to explain how shopping cart 🛒 works in dot net core mvc. But now it has more features except payment gateway. A ⭐ in repository is highly appreciated, helps to promote my content.
-
->>>>>>> f9464ff9c1ca7cb8df11d34bbcd75ce927179144
-
 ## Tech stack 🧑‍💻
 
    - Dotnet core mvc 
