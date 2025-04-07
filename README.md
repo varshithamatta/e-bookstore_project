@@ -1,14 +1,24 @@
 # BookShoppingCartMvc (A basic e-comm system for beginners)📚🛒
 
+<<<<<<< HEAD
 It is a source code of the youtube tutorial on [book shopping cart in .net core mvc](https://www.youtube.com/watch?v=R4ZLWD89R5w&list=PLP8UhDwXI7f_8r2Rbt7GNwf7eXZqUu_p4). Initially it was designed to explain how shopping cart 🛒 works in dot net core mvc. But now it has more features except payment gateway.
+=======
+It is a source code of the youtube tutorial on [book shopping cart in .net core mvc](https://www.youtube.com/watch?v=R4ZLWD89R5w&list=PLP8UhDwXI7f_8r2Rbt7GNwf7eXZqUu_p4). Initially it was designed to explain how shopping cart 🛒 works in dot net core mvc. But now it has more features except payment gateway. A ⭐ in repository is highly appreciated, helps to promote my content.
+
+>>>>>>> f9464ff9c1ca7cb8df11d34bbcd75ce927179144
 
 ## Tech stack 🧑‍💻
 
-   - Dotnet core mvc (.Net 9)
+   - Dotnet core mvc 
    - MS SQLServer 2022 (Database)
    - Entity Framework Core (ORM)
    - Identity Core (Authentication)
+<<<<<<< HEAD
    - RazorViews (frontend)
+=======
+   - Razor Views (cshtml) (frontend)
+
+>>>>>>> f9464ff9c1ca7cb8df11d34bbcd75ce927179144
 
 ## Video tutorial 📺
 
@@ -19,7 +29,11 @@ It is a source code of the youtube tutorial on [book shopping cart in .net core 
 1. Open the command prompt. Go to a directory where you want to clone this project. Use this command to clone the project.
 
 ```bash
+<<<<<<< HEAD
 git clone [github repo link]
+=======
+git clone [github repo]
+>>>>>>> f9464ff9c1ca7cb8df11d34bbcd75ce927179144
 ```
 
 2. Go to the directory where you have cloned this project, open the directory `BookShoppingCart-Mvc`. You will find a file with name `BookShoppingCartMvc.sln`. Double click on this file and this project will be opened in Visual Studio.
@@ -144,5 +158,8 @@ password: Admin@123
 
 If you find this repository useful, then consider to leave a ⭐.
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> f9464ff9c1ca7cb8df11d34bbcd75ce927179144
 Thanks a lot 🙂🙂
