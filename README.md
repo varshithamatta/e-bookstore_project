@@ -21,7 +21,7 @@ It is a source code of the youtube tutorial on [book shopping cart in .net core 
 1. Open the command prompt. Go to a directory where you want to clone this project. Use this command to clone the project.
 
 ```bash
-git clone https://github.com/rd003/BookShoppingCart-Mvc
+git clone [github repo]
 ```
 
 2. Go to the directory where you have cloned this project, open the directory `BookShoppingCart-Mvc`. You will find a file with name `BookShoppingCartMvc.sln`. Double click on this file and this project will be opened in Visual Studio.
